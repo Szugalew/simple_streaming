@@ -1,0 +1,3166 @@
+{
+    "account_id": "5076297042001",
+    "created_at": "2022-09-27T14:12:31.147Z",
+    "description": null,
+    "id": "1745132402662797221",
+    "name": "Hackathon",
+    "reference_id": "hackathon",
+    "type": "EXPLICIT",
+    "updated_at": "2022-09-27T14:17:52.125Z",
+    "videos": [
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291677001_6264908206001-vs.jpg?pubId=5076297042001&videoId=6264908206001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291684001_6264908206001-th.jpg?pubId=5076297042001&videoId=6264908206001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291677001_6264908206001-vs.jpg?pubId=5076297042001&videoId=6264908206001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291677001_6264908206001-vs.jpg?pubId=5076297042001&videoId=6264908206001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291684001_6264908206001-th.jpg?pubId=5076297042001&videoId=6264908206001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291684001_6264908206001-th.jpg?pubId=5076297042001&videoId=6264908206001"
+                }
+            ],
+            "description": null,
+            "tags": [
+                "inspired by black culture",
+                "mansa",
+                "movie"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "accesslevel": "Premium",
+                "cast": "Al Pacino, Steven Bauer, Michelle Pfeiffer",
+                "director": "Brian De Palma",
+                "releasedate": "1983-12-09",
+                "thumbnailtype": "landscape",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264907624001",
+                    "avg_bitrate": 991000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 200388,
+                    "height": 360,
+                    "size": 24930149,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264907624001_6264908206001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6264907624001",
+                    "avg_bitrate": 991000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 200388,
+                    "height": 360,
+                    "size": 24930149,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264907624001_6264908206001.mp4?pubId=5076297042001&videoId=6264908206001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6264907624001",
+                    "avg_bitrate": 991000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 200388,
+                    "height": 360,
+                    "size": 24930149,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264907624001_6264908206001.mp4?pubId=5076297042001&videoId=6264908206001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264909122001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 200388,
+                    "height": 540,
+                    "size": 45555447,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264909122001_6264908206001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6264909122001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 200388,
+                    "height": 540,
+                    "size": 45555447,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264909122001_6264908206001.mp4?pubId=5076297042001&videoId=6264908206001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6264909122001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 200388,
+                    "height": 540,
+                    "size": 45555447,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264909122001_6264908206001.mp4?pubId=5076297042001&videoId=6264908206001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264909123001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 200388,
+                    "height": 270,
+                    "size": 12830073,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264909123001_6264908206001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6264909123001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 200388,
+                    "height": 270,
+                    "size": 12830073,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264909123001_6264908206001.mp4?pubId=5076297042001&videoId=6264908206001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6264909123001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 200388,
+                    "height": 270,
+                    "size": 12830073,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264909123001_6264908206001.mp4?pubId=5076297042001&videoId=6264908206001",
+                    "width": 480
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6264908206001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6264908206001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Scarface",
+            "reference_id": null,
+            "long_description": "After getting a green card in exchange for assassinating a Cuban government official, Tony Montana (Al Pacino) stakes a claim on the drug trade in Miami. Viciously murdering anyone who stands in his way, Tony eventually becomes the biggest drug lord in the state, controlling nearly all the cocaine that comes through Miami. But increased pressure from the police, wars with Colombian drug cartels and his own drug-fueled paranoia serve to fuel the flames of his eventual downfall.",
+            "duration": 200388,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-07-23T16:11:51.428Z",
+            "created_at": "2021-07-23T14:53:15.234Z",
+            "updated_at": "2022-09-27T14:17:52.115Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6264908206001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6265571151001_6264898482001-vs.jpg?pubId=5076297042001&videoId=6264898482001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291683001_6264898482001-th.jpg?pubId=5076297042001&videoId=6264898482001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6265571151001_6264898482001-vs.jpg?pubId=5076297042001&videoId=6264898482001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6265571151001_6264898482001-vs.jpg?pubId=5076297042001&videoId=6264898482001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291683001_6264898482001-th.jpg?pubId=5076297042001&videoId=6264898482001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291683001_6264898482001-th.jpg?pubId=5076297042001&videoId=6264898482001"
+                }
+            ],
+            "description": null,
+            "tags": [
+                "animation",
+                "mansa",
+                "movie"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "accesslevel": "Premium",
+                "cast": "Shameik Moore, Jake Johnson, Hailee Steinfeld",
+                "director": "Peter Ramsey, Rodney Rothman, Bob Persichetti",
+                "releasedate": "2018-12-14",
+                "thumbnailtype": "landscape",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264871217001",
+                    "avg_bitrate": 1808000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 160240,
+                    "height": 410,
+                    "size": 36271456,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264871217001_6264898482001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6264871217001",
+                    "avg_bitrate": 1808000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 160240,
+                    "height": 410,
+                    "size": 36271456,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264871217001_6264898482001.mp4?pubId=5076297042001&videoId=6264898482001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6264871217001",
+                    "avg_bitrate": 1808000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 160240,
+                    "height": 410,
+                    "size": 36271456,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264871217001_6264898482001.mp4?pubId=5076297042001&videoId=6264898482001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264881711001",
+                    "avg_bitrate": 507000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 160240,
+                    "height": 204,
+                    "size": 10222541,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264881711001_6264898482001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6264881711001",
+                    "avg_bitrate": 507000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 160240,
+                    "height": 204,
+                    "size": 10222541,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264881711001_6264898482001.mp4?pubId=5076297042001&videoId=6264898482001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6264881711001",
+                    "avg_bitrate": 507000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 160240,
+                    "height": 204,
+                    "size": 10222541,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264881711001_6264898482001.mp4?pubId=5076297042001&videoId=6264898482001",
+                    "width": 480
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264898703001",
+                    "avg_bitrate": 983000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 160240,
+                    "height": 272,
+                    "size": 19760806,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264898703001_6264898482001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6264898703001",
+                    "avg_bitrate": 983000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 160240,
+                    "height": 272,
+                    "size": 19760806,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264898703001_6264898482001.mp4?pubId=5076297042001&videoId=6264898482001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6264898703001",
+                    "avg_bitrate": 983000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 160240,
+                    "height": 272,
+                    "size": 19760806,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264898703001_6264898482001.mp4?pubId=5076297042001&videoId=6264898482001",
+                    "width": 640
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6264898482001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6264898482001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Spiderman into the Spiderverse",
+            "reference_id": null,
+            "long_description": "Bitten by a radioactive spider in the subway, Brooklyn teenager Miles Morales suddenly develops mysterious powers that transform him into the one and only Spider-Man. When he meets Peter Parker, he soon realizes that there are many others who share his special, high-flying talents. Miles must now use his newfound skills to battle the evil Kingpin, a hulking madman who can open portals to other universes and pull different versions of Spider-Man into our world.",
+            "duration": 160240,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-07-23T14:20:03.402Z",
+            "created_at": "2021-07-23T14:04:42.585Z",
+            "updated_at": "2022-09-27T14:17:52.115Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6264898482001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6265571142001_6264899559001-vs.jpg?pubId=5076297042001&videoId=6264899559001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291682001_6264899559001-th.jpg?pubId=5076297042001&videoId=6264899559001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6265571142001_6264899559001-vs.jpg?pubId=5076297042001&videoId=6264899559001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6265571142001_6264899559001-vs.jpg?pubId=5076297042001&videoId=6264899559001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291682001_6264899559001-th.jpg?pubId=5076297042001&videoId=6264899559001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291682001_6264899559001-th.jpg?pubId=5076297042001&videoId=6264899559001"
+                }
+            ],
+            "description": null,
+            "tags": [
+                "drama",
+                "mansa",
+                "movie"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "accesslevel": "Free",
+                "cast": "Denzel Washington, Angela Bassett, Albert Hall",
+                "director": "Spike Lee",
+                "releasedate": "1992-11-18",
+                "thumbnailtype": "landscape",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264888543001",
+                    "avg_bitrate": 994000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 167624,
+                    "height": 360,
+                    "size": 20925628,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264888543001_6264899559001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6264888543001",
+                    "avg_bitrate": 994000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 167624,
+                    "height": 360,
+                    "size": 20925628,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264888543001_6264899559001.mp4?pubId=5076297042001&videoId=6264899559001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6264888543001",
+                    "avg_bitrate": 994000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 167624,
+                    "height": 360,
+                    "size": 20925628,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264888543001_6264899559001.mp4?pubId=5076297042001&videoId=6264899559001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264894012001",
+                    "avg_bitrate": 1818000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 167624,
+                    "height": 540,
+                    "size": 38189369,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264894012001_6264899559001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6264894012001",
+                    "avg_bitrate": 1818000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 167624,
+                    "height": 540,
+                    "size": 38189369,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264894012001_6264899559001.mp4?pubId=5076297042001&videoId=6264899559001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6264894012001",
+                    "avg_bitrate": 1818000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 167624,
+                    "height": 540,
+                    "size": 38189369,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264894012001_6264899559001.mp4?pubId=5076297042001&videoId=6264899559001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264899130001",
+                    "avg_bitrate": 515000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 167624,
+                    "height": 270,
+                    "size": 10828979,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264899130001_6264899559001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6264899130001",
+                    "avg_bitrate": 515000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 167624,
+                    "height": 270,
+                    "size": 10828979,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264899130001_6264899559001.mp4?pubId=5076297042001&videoId=6264899559001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6264899130001",
+                    "avg_bitrate": 515000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 167624,
+                    "height": 270,
+                    "size": 10828979,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264899130001_6264899559001.mp4?pubId=5076297042001&videoId=6264899559001",
+                    "width": 480
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6264899559001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6264899559001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Malcolm X",
+            "reference_id": null,
+            "long_description": "A tribute to the legendary activist and leader of the struggle for Black liberation. He hit bottom during his imprisonment in the '50s, he became a Black Muslim and then a leader in the Nation of Islam. His assassination in 1965 left a legacy of self-determination and racial pride.",
+            "duration": 167624,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-07-23T14:20:03.573Z",
+            "created_at": "2021-07-23T13:56:18.497Z",
+            "updated_at": "2022-09-27T14:17:52.115Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6264899559001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6265663222001_6264894348001-vs.jpg?pubId=5076297042001&videoId=6264894348001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291681001_6264894348001-th.jpg?pubId=5076297042001&videoId=6264894348001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6265663222001_6264894348001-vs.jpg?pubId=5076297042001&videoId=6264894348001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6265663222001_6264894348001-vs.jpg?pubId=5076297042001&videoId=6264894348001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291681001_6264894348001-th.jpg?pubId=5076297042001&videoId=6264894348001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291681001_6264894348001-th.jpg?pubId=5076297042001&videoId=6264894348001"
+                }
+            ],
+            "description": null,
+            "tags": [
+                "inspired by black culture",
+                "mansa",
+                "movie"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "accesslevel": "Free",
+                "cast": "Sharlto Copley, Jason Cope, David James",
+                "director": "Neil Blomkamp",
+                "releasedate": "2009-08-14",
+                "thumbnailtype": "landscape",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264881698001",
+                    "avg_bitrate": 1729000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 108251,
+                    "height": 540,
+                    "size": 23436991,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264881698001_6264894348001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6264881698001",
+                    "avg_bitrate": 1729000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 108251,
+                    "height": 540,
+                    "size": 23436991,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264881698001_6264894348001.mp4?pubId=5076297042001&videoId=6264894348001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6264881698001",
+                    "avg_bitrate": 1729000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 108251,
+                    "height": 540,
+                    "size": 23436991,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264881698001_6264894348001.mp4?pubId=5076297042001&videoId=6264894348001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264888666001",
+                    "avg_bitrate": 953000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 108251,
+                    "height": 360,
+                    "size": 12955272,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264888666001_6264894348001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6264888666001",
+                    "avg_bitrate": 953000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 108251,
+                    "height": 360,
+                    "size": 12955272,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264888666001_6264894348001.mp4?pubId=5076297042001&videoId=6264894348001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6264888666001",
+                    "avg_bitrate": 953000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 108251,
+                    "height": 360,
+                    "size": 12955272,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264888666001_6264894348001.mp4?pubId=5076297042001&videoId=6264894348001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264893898001",
+                    "avg_bitrate": 492000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 108251,
+                    "height": 270,
+                    "size": 6682412,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264893898001_6264894348001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6264893898001",
+                    "avg_bitrate": 492000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 108251,
+                    "height": 270,
+                    "size": 6682412,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264893898001_6264894348001.mp4?pubId=5076297042001&videoId=6264894348001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6264893898001",
+                    "avg_bitrate": 492000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 108251,
+                    "height": 270,
+                    "size": 6682412,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264893898001_6264894348001.mp4?pubId=5076297042001&videoId=6264894348001",
+                    "width": 480
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6264894348001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6264894348001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "District 9",
+            "reference_id": null,
+            "long_description": "Thirty years ago, aliens arrive on Earth -- not to conquer or give aid, but -- to find refuge from their dying planet. Separated from humans in a South African area called District 9, the aliens are managed by Multi-National United, which is unconcerned with the aliens' welfare but will do anything to master their advanced technology. When a company field agent (Sharlto Copley) contracts a mysterious virus that begins to alter his DNA, there is only one place he can hide: District 9.",
+            "duration": 108251,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-07-23T14:20:03.504Z",
+            "created_at": "2021-07-23T13:28:53.323Z",
+            "updated_at": "2022-09-27T14:17:52.115Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6264894348001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6265571141001_6264897460001-vs.jpg?pubId=5076297042001&videoId=6264897460001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291680001_6264897460001-th.jpg?pubId=5076297042001&videoId=6264897460001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6265571141001_6264897460001-vs.jpg?pubId=5076297042001&videoId=6264897460001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6265571141001_6264897460001-vs.jpg?pubId=5076297042001&videoId=6264897460001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291680001_6264897460001-th.jpg?pubId=5076297042001&videoId=6264897460001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291680001_6264897460001-th.jpg?pubId=5076297042001&videoId=6264897460001"
+                }
+            ],
+            "description": null,
+            "tags": [
+                "inspired by black culture",
+                "mansa",
+                "movie"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "accesslevel": "Free",
+                "cast": "Eminem, Brittany Murphy, Mekhi Phifer ",
+                "director": "Curtis Hanson",
+                "parentalrating": "R",
+                "releasedate": "2002-11-08",
+                "thumbnailtype": "landscape",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264881692001",
+                    "avg_bitrate": 983000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 172756,
+                    "height": 360,
+                    "size": 21282237,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264881692001_6264897460001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6264881692001",
+                    "avg_bitrate": 983000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 172756,
+                    "height": 360,
+                    "size": 21282237,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264881692001_6264897460001.mp4?pubId=5076297042001&videoId=6264897460001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6264881692001",
+                    "avg_bitrate": 983000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 172756,
+                    "height": 360,
+                    "size": 21282237,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264881692001_6264897460001.mp4?pubId=5076297042001&videoId=6264897460001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264888649001",
+                    "avg_bitrate": 1792000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 172756,
+                    "height": 540,
+                    "size": 38779537,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264888649001_6264897460001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6264888649001",
+                    "avg_bitrate": 1792000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 172756,
+                    "height": 540,
+                    "size": 38779537,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264888649001_6264897460001.mp4?pubId=5076297042001&videoId=6264897460001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6264888649001",
+                    "avg_bitrate": 1792000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 172756,
+                    "height": 540,
+                    "size": 38779537,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264888649001_6264897460001.mp4?pubId=5076297042001&videoId=6264897460001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6264888650001",
+                    "avg_bitrate": 508000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 172756,
+                    "height": 270,
+                    "size": 11031020,
+                    "stream_name": "mp4:5076297042001/5076297042001_6264888650001_6264897460001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6264888650001",
+                    "avg_bitrate": 508000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 172756,
+                    "height": 270,
+                    "size": 11031020,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6264888650001_6264897460001.mp4?pubId=5076297042001&videoId=6264897460001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6264888650001",
+                    "avg_bitrate": 508000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 172756,
+                    "height": 270,
+                    "size": 11031020,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6264888650001_6264897460001.mp4?pubId=5076297042001&videoId=6264897460001",
+                    "width": 480
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6264897460001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6264897460001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "8 Mile",
+            "reference_id": null,
+            "long_description": "The people of Detroit know 8 Mile as the city limit, a border, a boundary. It is also a psychological dividing line that separates Jimmy Smith Jr. (Eminem) from where and who he wants to be. A provocative fictional examination of a critical week in Jimmy's life.",
+            "duration": 172756,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-07-23T14:20:03.370Z",
+            "created_at": "2021-07-23T13:19:12.120Z",
+            "updated_at": "2022-09-27T14:17:52.115Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6264897460001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6248814398001_5999743326001-vs.jpg?pubId=5076297042001&videoId=5999743326001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6248814399001_5999743326001-th.jpg?pubId=5076297042001&videoId=5999743326001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6248814398001_5999743326001-vs.jpg?pubId=5076297042001&videoId=5999743326001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6248814398001_5999743326001-vs.jpg?pubId=5076297042001&videoId=5999743326001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6248814399001_5999743326001-th.jpg?pubId=5076297042001&videoId=5999743326001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6248814399001_5999743326001-th.jpg?pubId=5076297042001&videoId=5999743326001"
+                }
+            ],
+            "description": "An eight-year-old troublemaker must protect his house from a pair of burglars when he is accidentally left home alone by his family during Christmas vacation.",
+            "tags": [],
+            "cue_points": [],
+            "custom_fields": {
+                "data_param_video_url": "http://nlds209.cdnak.neulion.com/nlds/nl/uni/as/live/uni_hd_ipad.m3u8",
+                "videotype": "Clip"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "asset_id": "5999743444001",
+                    "src": "http://nlds209.cdnak.neulion.com/nlds/nl/uni/as/live/uni_hd_ipad.m3u8",
+                    "type": "application/vnd.apple.mpegurl"
+                }
+            ],
+            "name": "Home Alone",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 0,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2019-02-07T22:33:26.895Z",
+            "created_at": "2019-02-07T22:24:12.992Z",
+            "updated_at": "2022-09-27T14:17:30.871Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "5999743326001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291634001_6283294313001-vs.jpg?pubId=5076297042001&videoId=6283294313001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291653001_6283294313001-th.jpg?pubId=5076297042001&videoId=6283294313001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291634001_6283294313001-vs.jpg?pubId=5076297042001&videoId=6283294313001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291634001_6283294313001-vs.jpg?pubId=5076297042001&videoId=6283294313001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291653001_6283294313001-th.jpg?pubId=5076297042001&videoId=6283294313001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291653001_6283294313001-th.jpg?pubId=5076297042001&videoId=6283294313001"
+                }
+            ],
+            "description": "The daughter of an Imperial scientist joins the Rebel Alliance in a risky move to steal the Death Star plans.",
+            "tags": [
+                "bbc",
+                "starwars"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "cast": "Felicity Jones, Diego Luna, Alan Tudyk",
+                "director": "Gareth Edwards",
+                "parentalrating": "PG-13",
+                "releasedate": "2016",
+                "thumbnailtype": "landscape",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283276912001",
+                    "avg_bitrate": 512000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 270,
+                    "size": 38369356,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283276912001_6283294313001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283276912001",
+                    "avg_bitrate": 512000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 270,
+                    "size": 38369356,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283276912001_6283294313001.mp4?pubId=5076297042001&videoId=6283294313001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283276912001",
+                    "avg_bitrate": 512000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 270,
+                    "size": 38369356,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283276912001_6283294313001.mp4?pubId=5076297042001&videoId=6283294313001",
+                    "width": 480
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283288756001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 360,
+                    "size": 74280731,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283288756001_6283294313001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283288756001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 360,
+                    "size": 74280731,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283288756001_6283294313001.mp4?pubId=5076297042001&videoId=6283294313001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283288756001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 360,
+                    "size": 74280731,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283288756001_6283294313001.mp4?pubId=5076297042001&videoId=6283294313001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283291261001",
+                    "avg_bitrate": 1820000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 540,
+                    "size": 136031763,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283291261001_6283294313001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283291261001",
+                    "avg_bitrate": 1820000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 540,
+                    "size": 136031763,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283291261001_6283294313001.mp4?pubId=5076297042001&videoId=6283294313001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283291261001",
+                    "avg_bitrate": 1820000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 540,
+                    "size": 136031763,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283291261001_6283294313001.mp4?pubId=5076297042001&videoId=6283294313001",
+                    "width": 960
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283294313001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283294313001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Rogue One: A Star Wars Story",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 596543,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T23:35:44.590Z",
+            "created_at": "2021-11-22T23:35:19.436Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283294313001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733854001_6283278140001-vs.jpg?pubId=5076297042001&videoId=6283278140001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291661001_6283278140001-th.jpg?pubId=5076297042001&videoId=6283278140001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733854001_6283278140001-vs.jpg?pubId=5076297042001&videoId=6283278140001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733854001_6283278140001-vs.jpg?pubId=5076297042001&videoId=6283278140001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291661001_6283278140001-th.jpg?pubId=5076297042001&videoId=6283278140001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291661001_6283278140001-th.jpg?pubId=5076297042001&videoId=6283278140001"
+                }
+            ],
+            "description": "A musician helps a young singer and actress find fame, even as age and alcoholism send his own career into a downward spiral.",
+            "tags": [
+                "bbc"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "cast": "Lady Gaga, Bradley Cooper, Sam Elliott",
+                "director": "Bradley Cooper",
+                "parentalrating": "15",
+                "thumbnailtype": "portrait",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283275761001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40739662,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283275761001_6283278140001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283275761001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40739662,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275761001_6283278140001.mp4?pubId=5076297042001&videoId=6283278140001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283275761001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40739662,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275761001_6283278140001.mp4?pubId=5076297042001&videoId=6283278140001",
+                    "width": 480
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283275874001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79087683,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283275874001_6283278140001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283275874001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79087683,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275874001_6283278140001.mp4?pubId=5076297042001&videoId=6283278140001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283275874001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79087683,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275874001_6283278140001.mp4?pubId=5076297042001&videoId=6283278140001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283276862001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144298556,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283276862001_6283278140001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283276862001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144298556,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283276862001_6283278140001.mp4?pubId=5076297042001&videoId=6283278140001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283276862001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144298556,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283276862001_6283278140001.mp4?pubId=5076297042001&videoId=6283278140001",
+                    "width": 960
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283278140001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283278140001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "A Star Is Born",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 634694,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T19:16:50.451Z",
+            "created_at": "2021-11-22T19:16:14.296Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283278140001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733873001_6283286828001-vs.jpg?pubId=5076297042001&videoId=6283286828001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291657001_6283286828001-th.jpg?pubId=5076297042001&videoId=6283286828001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733873001_6283286828001-vs.jpg?pubId=5076297042001&videoId=6283286828001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733873001_6283286828001-vs.jpg?pubId=5076297042001&videoId=6283286828001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291657001_6283286828001-th.jpg?pubId=5076297042001&videoId=6283286828001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291657001_6283286828001-th.jpg?pubId=5076297042001&videoId=6283286828001"
+                }
+            ],
+            "description": "Interstellar chronicles the adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+            "tags": [
+                "bbc"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "cast": "Matthew McConaughey, Anne Hathaway, Jessica Chastain",
+                "director": "Christopher Nolan",
+                "parentalrating": "PG-13",
+                "releasedate": "2104",
+                "thumbnailtype": "portrait",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283278267001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79076449,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283278267001_6283286828001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283278267001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79076449,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278267001_6283286828001.mp4?pubId=5076297042001&videoId=6283286828001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283278267001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79076449,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278267001_6283286828001.mp4?pubId=5076297042001&videoId=6283286828001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283285594001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144311630,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283285594001_6283286828001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283285594001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144311630,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285594001_6283286828001.mp4?pubId=5076297042001&videoId=6283286828001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283285594001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144311630,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285594001_6283286828001.mp4?pubId=5076297042001&videoId=6283286828001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283288699001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40740852,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283288699001_6283286828001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283288699001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40740852,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283288699001_6283286828001.mp4?pubId=5076297042001&videoId=6283286828001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283288699001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40740852,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283288699001_6283286828001.mp4?pubId=5076297042001&videoId=6283286828001",
+                    "width": 480
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283286828001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283286828001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Interstellar",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 634694,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T22:18:23.282Z",
+            "created_at": "2021-11-22T22:17:20.246Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283286828001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733875001_6283286838001-vs.jpg?pubId=5076297042001&videoId=6283286838001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291690001_6283286838001-th.jpg?pubId=5076297042001&videoId=6283286838001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733875001_6283286838001-vs.jpg?pubId=5076297042001&videoId=6283286838001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733875001_6283286838001-vs.jpg?pubId=5076297042001&videoId=6283286838001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291690001_6283286838001-th.jpg?pubId=5076297042001&videoId=6283286838001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291690001_6283286838001-th.jpg?pubId=5076297042001&videoId=6283286838001"
+                }
+            ],
+            "description": "Aspiring musician Miguel, confronted with his family's ancestral ban on music, enters the Land of the Dead to find his great-great-grandfather, a legendary singer.",
+            "tags": [
+                "bbc"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "cast": "Anthony Gonzalez, Gael García Bernal, Benjamin Bratt",
+                "director": "Lee Unkirch",
+                "parentalrating": "PG",
+                "releasedate": "2017",
+                "thumbnailtype": "portrait",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283285599001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144327630,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283285599001_6283286838001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283285599001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144327630,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285599001_6283286838001.mp4?pubId=5076297042001&videoId=6283286838001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283285599001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144327630,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285599001_6283286838001.mp4?pubId=5076297042001&videoId=6283286838001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283285600001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79068928,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283285600001_6283286838001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283285600001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79068928,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285600001_6283286838001.mp4?pubId=5076297042001&videoId=6283286838001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283285600001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79068928,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285600001_6283286838001.mp4?pubId=5076297042001&videoId=6283286838001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283285695001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40739556,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283285695001_6283286838001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283285695001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40739556,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285695001_6283286838001.mp4?pubId=5076297042001&videoId=6283286838001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283285695001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40739556,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285695001_6283286838001.mp4?pubId=5076297042001&videoId=6283286838001",
+                    "width": 480
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283286838001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283286838001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Coco",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 634694,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T22:19:30.506Z",
+            "created_at": "2021-11-22T22:19:05.469Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283286838001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733849001_6283277828001-vs.jpg?pubId=5076297042001&videoId=6283277828001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291688001_6283277828001-th.jpg?pubId=5076297042001&videoId=6283277828001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733849001_6283277828001-vs.jpg?pubId=5076297042001&videoId=6283277828001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733849001_6283277828001-vs.jpg?pubId=5076297042001&videoId=6283277828001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291688001_6283277828001-th.jpg?pubId=5076297042001&videoId=6283277828001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291688001_6283277828001-th.jpg?pubId=5076297042001&videoId=6283277828001"
+                }
+            ],
+            "description": "Fearing that the actions of Superman are left unchecked, Batman takes on the Man of Steel, while the world wrestles with what kind of a hero it really needs.",
+            "tags": [
+                "bbc"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "accesslevel": "Premium",
+                "cast": "Ben Affleck, Henry Cavill, Amy Adams",
+                "director": "Zack Snyder",
+                "parentalrating": "PG-13",
+                "thumbnailtype": "landscape",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283231004001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40741246,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283231004001_6283277828001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283231004001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40741246,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283231004001_6283277828001.mp4?pubId=5076297042001&videoId=6283277828001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283231004001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40741246,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283231004001_6283277828001.mp4?pubId=5076297042001&videoId=6283277828001",
+                    "width": 480
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283278889001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144323286,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283278889001_6283277828001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283278889001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144323286,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278889001_6283277828001.mp4?pubId=5076297042001&videoId=6283277828001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283278889001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144323286,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278889001_6283277828001.mp4?pubId=5076297042001&videoId=6283277828001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283278891001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79084780,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283278891001_6283277828001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283278891001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79084780,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278891001_6283277828001.mp4?pubId=5076297042001&videoId=6283277828001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283278891001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79084780,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278891001_6283277828001.mp4?pubId=5076297042001&videoId=6283277828001",
+                    "width": 640
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283277828001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283277828001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Batman v Superman: Dawn of Justice",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 634694,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T19:44:39.499Z",
+            "created_at": "2021-11-22T19:16:09.338Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283277828001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291631001_6283295329001-vs.jpg?pubId=5076297042001&videoId=6283295329001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291647001_6283295329001-th.jpg?pubId=5076297042001&videoId=6283295329001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291631001_6283295329001-vs.jpg?pubId=5076297042001&videoId=6283295329001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291631001_6283295329001-vs.jpg?pubId=5076297042001&videoId=6283295329001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291647001_6283295329001-th.jpg?pubId=5076297042001&videoId=6283295329001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291647001_6283295329001-th.jpg?pubId=5076297042001&videoId=6283295329001"
+                }
+            ],
+            "description": "During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
+            "tags": [
+                "bbc",
+                "starwars"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "cast": "During an adventure into the criminal underworld, Han Solo meets his future co-pilot Chewbacca and encounters Lando Calrissian years before joining the Rebellion.",
+                "director": "Ron Howard",
+                "parentalrating": "PG-13",
+                "releasedate": "2018",
+                "thumbnailtype": "landscape",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283276913001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 360,
+                    "size": 74273919,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283276913001_6283295329001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283276913001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 360,
+                    "size": 74273919,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283276913001_6283295329001.mp4?pubId=5076297042001&videoId=6283295329001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283276913001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 360,
+                    "size": 74273919,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283276913001_6283295329001.mp4?pubId=5076297042001&videoId=6283295329001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283279655001",
+                    "avg_bitrate": 1820000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 540,
+                    "size": 136037483,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283279655001_6283295329001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283279655001",
+                    "avg_bitrate": 1820000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 540,
+                    "size": 136037483,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283279655001_6283295329001.mp4?pubId=5076297042001&videoId=6283295329001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283279655001",
+                    "avg_bitrate": 1820000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 540,
+                    "size": 136037483,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283279655001_6283295329001.mp4?pubId=5076297042001&videoId=6283295329001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283291263001",
+                    "avg_bitrate": 512000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 270,
+                    "size": 38375195,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283291263001_6283295329001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283291263001",
+                    "avg_bitrate": 512000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 270,
+                    "size": 38375195,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283291263001_6283295329001.mp4?pubId=5076297042001&videoId=6283295329001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283291263001",
+                    "avg_bitrate": 512000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 270,
+                    "size": 38375195,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283291263001_6283295329001.mp4?pubId=5076297042001&videoId=6283295329001",
+                    "width": 480
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283295329001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283295329001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Solo: A Star Wars Story",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 596543,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T23:36:10.471Z",
+            "created_at": "2021-11-22T23:35:49.133Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283295329001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291627001_6283295527001-vs.jpg?pubId=5076297042001&videoId=6283295527001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291648001_6283295527001-th.jpg?pubId=5076297042001&videoId=6283295527001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291627001_6283295527001-vs.jpg?pubId=5076297042001&videoId=6283295527001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291627001_6283295527001-vs.jpg?pubId=5076297042001&videoId=6283295527001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291648001_6283295527001-th.jpg?pubId=5076297042001&videoId=6283295527001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291648001_6283295527001-th.jpg?pubId=5076297042001&videoId=6283295527001"
+                }
+            ],
+            "description": "Rey develops her newly discovered abilities with the guidance of Luke Skywalker, who is unsettled by the strength of her powers. Meanwhile, the Resistance prepares for battle with the First Order.",
+            "tags": [
+                "bbc",
+                "starwars"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "cast": "Daisy Ridley, John Boyega, Mark Hamill",
+                "director": "Rian Johnson",
+                "parentalrating": "PG-13",
+                "releasedate": "2017",
+                "thumbnailtype": "landscape",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283277021001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 360,
+                    "size": 74269420,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283277021001_6283295527001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283277021001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 360,
+                    "size": 74269420,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283277021001_6283295527001.mp4?pubId=5076297042001&videoId=6283295527001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283277021001",
+                    "avg_bitrate": 992000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 360,
+                    "size": 74269420,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283277021001_6283295527001.mp4?pubId=5076297042001&videoId=6283295527001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283279279001",
+                    "avg_bitrate": 512000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 270,
+                    "size": 38370542,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283279279001_6283295527001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283279279001",
+                    "avg_bitrate": 512000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 270,
+                    "size": 38370542,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283279279001_6283295527001.mp4?pubId=5076297042001&videoId=6283295527001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283279279001",
+                    "avg_bitrate": 512000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 270,
+                    "size": 38370542,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283279279001_6283295527001.mp4?pubId=5076297042001&videoId=6283295527001",
+                    "width": 480
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283285645001",
+                    "avg_bitrate": 1820000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 540,
+                    "size": 136033783,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283285645001_6283295527001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283285645001",
+                    "avg_bitrate": 1820000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 540,
+                    "size": 136033783,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285645001_6283295527001.mp4?pubId=5076297042001&videoId=6283295527001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283285645001",
+                    "avg_bitrate": 1820000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 596543,
+                    "height": 540,
+                    "size": 136033783,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285645001_6283295527001.mp4?pubId=5076297042001&videoId=6283295527001",
+                    "width": 960
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283295527001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283295527001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Star Wars: Episode VIII - The Last Jedi",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 596543,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T23:36:58.087Z",
+            "created_at": "2021-11-22T23:36:41.158Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283295527001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733862001_6283281401001-vs.jpg?pubId=5076297042001&videoId=6283281401001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733863001_6283281401001-th.jpg?pubId=5076297042001&videoId=6283281401001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733862001_6283281401001-vs.jpg?pubId=5076297042001&videoId=6283281401001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733862001_6283281401001-vs.jpg?pubId=5076297042001&videoId=6283281401001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733863001_6283281401001-th.jpg?pubId=5076297042001&videoId=6283281401001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733863001_6283281401001-th.jpg?pubId=5076297042001&videoId=6283281401001"
+                }
+            ],
+            "description": "A passionate love story between two people of different backgrounds and temperaments, who are fatefully mismatched, set against the background of the Cold War in the 1950s in Poland, Berlin, Yugoslavia and Paris.",
+            "tags": [
+                "bbc"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "cast": "Joanna Kulig, Tomasz Kot, Borys Szyc",
+                "director": "Pawel Pawlikowski",
+                "parentalrating": "15",
+                "thumbnailtype": "landscape",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283275800001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144340299,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283275800001_6283281401001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283275800001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144340299,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275800001_6283281401001.mp4?pubId=5076297042001&videoId=6283281401001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283275800001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144340299,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275800001_6283281401001.mp4?pubId=5076297042001&videoId=6283281401001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283275802001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79086782,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283275802001_6283281401001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283275802001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79086782,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275802001_6283281401001.mp4?pubId=5076297042001&videoId=6283281401001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283275802001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79086782,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275802001_6283281401001.mp4?pubId=5076297042001&videoId=6283281401001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283279127001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40741119,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283279127001_6283281401001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283279127001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40741119,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283279127001_6283281401001.mp4?pubId=5076297042001&videoId=6283281401001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283279127001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40741119,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283279127001_6283281401001.mp4?pubId=5076297042001&videoId=6283281401001",
+                    "width": 480
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283281401001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283281401001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Cold War",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 634694,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T20:32:03.609Z",
+            "created_at": "2021-11-22T20:26:29.296Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283281401001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733845001_6283279827001-vs.jpg?pubId=5076297042001&videoId=6283279827001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291693001_6283279827001-th.jpg?pubId=5076297042001&videoId=6283279827001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733845001_6283279827001-vs.jpg?pubId=5076297042001&videoId=6283279827001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733845001_6283279827001-vs.jpg?pubId=5076297042001&videoId=6283279827001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291693001_6283279827001-th.jpg?pubId=5076297042001&videoId=6283279827001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291693001_6283279827001-th.jpg?pubId=5076297042001&videoId=6283279827001"
+                }
+            ],
+            "description": null,
+            "tags": [
+                "bbc"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "thumbnailtype": "portrait",
+                "videotype": "Clip"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283275772001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40740647,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283275772001_6283279827001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283275772001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40740647,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275772001_6283279827001.mp4?pubId=5076297042001&videoId=6283279827001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283275772001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40740647,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275772001_6283279827001.mp4?pubId=5076297042001&videoId=6283279827001",
+                    "width": 480
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283275773001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79089469,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283275773001_6283279827001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283275773001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79089469,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275773001_6283279827001.mp4?pubId=5076297042001&videoId=6283279827001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283275773001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79089469,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275773001_6283279827001.mp4?pubId=5076297042001&videoId=6283279827001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283279096001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144313280,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283279096001_6283279827001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283279096001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144313280,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283279096001_6283279827001.mp4?pubId=5076297042001&videoId=6283279827001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283279096001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144313280,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283279096001_6283279827001.mp4?pubId=5076297042001&videoId=6283279827001",
+                    "width": 960
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283279827001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283279827001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Blade Runner",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 634694,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T19:56:27.585Z",
+            "created_at": "2021-11-22T19:55:00.456Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283279827001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733864001_6283284764001-vs.jpg?pubId=5076297042001&videoId=6283284764001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291692001_6283284764001-th.jpg?pubId=5076297042001&videoId=6283284764001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733864001_6283284764001-vs.jpg?pubId=5076297042001&videoId=6283284764001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733864001_6283284764001-vs.jpg?pubId=5076297042001&videoId=6283284764001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291692001_6283284764001-th.jpg?pubId=5076297042001&videoId=6283284764001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291692001_6283284764001-th.jpg?pubId=5076297042001&videoId=6283284764001"
+                }
+            ],
+            "description": "Allied soldiers from Belgium, the British Empire and France are surrounded by the German army and evacuated during a fierce battle in World War II.",
+            "tags": [
+                "bbc"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "cast": "Fionn Whitehead, Barry Keoghan, Mark Rylance",
+                "director": "Christopher Nolan",
+                "parentalrating": "PG-13",
+                "releasedate": "2017",
+                "thumbnailtype": "portrait",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283231396001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79091305,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283231396001_6283284764001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283231396001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79091305,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283231396001_6283284764001.mp4?pubId=5076297042001&videoId=6283284764001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283231396001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79091305,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283231396001_6283284764001.mp4?pubId=5076297042001&videoId=6283284764001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283278224001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144330796,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283278224001_6283284764001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283278224001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144330796,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278224001_6283284764001.mp4?pubId=5076297042001&videoId=6283284764001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283278224001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144330796,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278224001_6283284764001.mp4?pubId=5076297042001&videoId=6283284764001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283278226001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40739066,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283278226001_6283284764001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283278226001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40739066,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278226001_6283284764001.mp4?pubId=5076297042001&videoId=6283284764001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283278226001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40739066,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278226001_6283284764001.mp4?pubId=5076297042001&videoId=6283284764001",
+                    "width": 480
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283284764001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283284764001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Dunkirk",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 634694,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T21:09:34.134Z",
+            "created_at": "2021-11-22T21:08:45.990Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283284764001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733857001_6283275546001-vs.jpg?pubId=5076297042001&videoId=6283275546001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291650001_6283275546001-th.jpg?pubId=5076297042001&videoId=6283275546001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733857001_6283275546001-vs.jpg?pubId=5076297042001&videoId=6283275546001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733857001_6283275546001-vs.jpg?pubId=5076297042001&videoId=6283275546001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291650001_6283275546001-th.jpg?pubId=5076297042001&videoId=6283275546001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291650001_6283275546001-th.jpg?pubId=5076297042001&videoId=6283275546001"
+                }
+            ],
+            "description": "The Avengers and their allies must be willing to sacrifice all in an attempt to defeat the powerful Thanos before his blitz of devastation and ruin puts an end to the universe.",
+            "tags": [
+                "bbc",
+                "marvel",
+                "movie"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "cast": "Robert Downey Jr., Chris Hemsworth, Mark Ruffalo",
+                "director": "Anthony Russo, Joe Russo",
+                "parentalrating": "12A",
+                "thumbnailtype": "landscape",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283233117001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144303777,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283233117001_6283275546001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283233117001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144303777,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283233117001_6283275546001.mp4?pubId=5076297042001&videoId=6283275546001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283233117001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144303777,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283233117001_6283275546001.mp4?pubId=5076297042001&videoId=6283275546001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283275878001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40739312,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283275878001_6283275546001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283275878001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40739312,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275878001_6283275546001.mp4?pubId=5076297042001&videoId=6283275546001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283275878001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40739312,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275878001_6283275546001.mp4?pubId=5076297042001&videoId=6283275546001",
+                    "width": 480
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283278892001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79086358,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283278892001_6283275546001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283278892001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79086358,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278892001_6283275546001.mp4?pubId=5076297042001&videoId=6283275546001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283278892001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79086358,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278892001_6283275546001.mp4?pubId=5076297042001&videoId=6283275546001",
+                    "width": 640
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283275546001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283275546001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Avengers: Infinity War",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 634694,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T19:17:15.198Z",
+            "created_at": "2021-11-22T19:16:12.641Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283275546001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733877001_6283286524001-vs.jpg?pubId=5076297042001&videoId=6283286524001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291691001_6283286524001-th.jpg?pubId=5076297042001&videoId=6283286524001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733877001_6283286524001-vs.jpg?pubId=5076297042001&videoId=6283286524001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733877001_6283286524001-vs.jpg?pubId=5076297042001&videoId=6283286524001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291691001_6283286524001-th.jpg?pubId=5076297042001&videoId=6283286524001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291691001_6283286524001-th.jpg?pubId=5076297042001&videoId=6283286524001"
+                }
+            ],
+            "description": "Colette is pushed by her husband to write novels under his name. Upon their success, she fights to make her talents known, challenging gender norms.",
+            "tags": [
+                "bbc"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "cast": "Keira Knightley, Eleanor Tomlinson, Dominic West",
+                "director": "Wash Westmoreland",
+                "parentalrating": "R",
+                "releasedate": "2019",
+                "thumbnailtype": "portrait",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283276891001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144331097,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283276891001_6283286524001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283276891001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144331097,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283276891001_6283286524001.mp4?pubId=5076297042001&videoId=6283286524001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283276891001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144331097,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283276891001_6283286524001.mp4?pubId=5076297042001&videoId=6283286524001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283285593001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40740534,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283285593001_6283286524001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283285593001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40740534,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285593001_6283286524001.mp4?pubId=5076297042001&videoId=6283286524001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283285593001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40740534,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285593001_6283286524001.mp4?pubId=5076297042001&videoId=6283286524001",
+                    "width": 480
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283285687001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79084319,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283285687001_6283286524001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283285687001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79084319,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285687001_6283286524001.mp4?pubId=5076297042001&videoId=6283286524001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283285687001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79084319,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283285687001_6283286524001.mp4?pubId=5076297042001&videoId=6283286524001",
+                    "width": 640
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283286524001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283286524001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Colette",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 634694,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T22:17:57.322Z",
+            "created_at": "2021-11-22T22:17:22.401Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283286524001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733859001_6283282440001-vs.jpg?pubId=5076297042001&videoId=6283282440001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291651001_6283282440001-th.jpg?pubId=5076297042001&videoId=6283282440001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733859001_6283282440001-vs.jpg?pubId=5076297042001&videoId=6283282440001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733859001_6283282440001-vs.jpg?pubId=5076297042001&videoId=6283282440001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291651001_6283282440001-th.jpg?pubId=5076297042001&videoId=6283282440001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291651001_6283282440001-th.jpg?pubId=5076297042001&videoId=6283282440001"
+                }
+            ],
+            "description": "Political interference in the Avengers' activities causes a rift between former allies Captain America and Iron Man.",
+            "tags": [
+                "bbc"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "cast": "Chris Evans, Robert Downey Jr., Scarlett Johansson",
+                "director": "Anthony Russo, Joe Russo",
+                "parentalrating": "PG-13",
+                "releasedate": "2016",
+                "thumbnailtype": "landscape",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283231388001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40740672,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283231388001_6283282440001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283231388001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40740672,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283231388001_6283282440001.mp4?pubId=5076297042001&videoId=6283282440001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283231388001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40740672,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283231388001_6283282440001.mp4?pubId=5076297042001&videoId=6283282440001",
+                    "width": 480
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283275803001",
+                    "avg_bitrate": 1813000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144284173,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283275803001_6283282440001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283275803001",
+                    "avg_bitrate": 1813000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144284173,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275803001_6283282440001.mp4?pubId=5076297042001&videoId=6283282440001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283275803001",
+                    "avg_bitrate": 1813000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144284173,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275803001_6283282440001.mp4?pubId=5076297042001&videoId=6283282440001",
+                    "width": 960
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283278954001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79077232,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283278954001_6283282440001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283278954001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79077232,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278954001_6283282440001.mp4?pubId=5076297042001&videoId=6283282440001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283278954001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79077232,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283278954001_6283282440001.mp4?pubId=5076297042001&videoId=6283282440001",
+                    "width": 640
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283282440001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283282440001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Captain America: Civil War",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 634694,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T20:31:07.011Z",
+            "created_at": "2021-11-22T20:26:35.188Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283282440001",
+            "ad_keys": null
+        },
+        {
+            "poster": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733853001_6283277522001-vs.jpg?pubId=5076297042001&videoId=6283277522001",
+            "thumbnail": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291662001_6283277522001-th.jpg?pubId=5076297042001&videoId=6283277522001",
+            "poster_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733853001_6283277522001-vs.jpg?pubId=5076297042001&videoId=6283277522001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6282733853001_6283277522001-vs.jpg?pubId=5076297042001&videoId=6283277522001"
+                }
+            ],
+            "thumbnail_sources": [
+                {
+                    "src": "http://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291662001_6283277522001-th.jpg?pubId=5076297042001&videoId=6283277522001"
+                },
+                {
+                    "src": "https://f1.media.brightcove.com/8/5076297042001/5076297042001_6283291662001_6283277522001-th.jpg?pubId=5076297042001&videoId=6283277522001"
+                }
+            ],
+            "description": "After training with his mentor, Batman begins his fight to free crime-ridden Gotham City from the corruption that Scarecrow and the League of Shadows have cast upon it.",
+            "tags": [
+                "bbc"
+            ],
+            "cue_points": [],
+            "custom_fields": {
+                "cast": "Christian Bale, Michael Caine, Ken Watanabe",
+                "director": "Christopher Nolan",
+                "parentalrating": "PG-13",
+                "releasedate": "2005",
+                "thumbnailtype": "landscape",
+                "videotype": "Video"
+            },
+            "account_id": "5076297042001",
+            "sources": [
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283231003001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79077843,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283231003001_6283277522001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283231003001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79077843,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283231003001_6283277522001.mp4?pubId=5076297042001&videoId=6283277522001",
+                    "width": 640
+                },
+                {
+                    "asset_id": "6283231003001",
+                    "avg_bitrate": 993000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 360,
+                    "size": 79077843,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283231003001_6283277522001.mp4?pubId=5076297042001&videoId=6283277522001",
+                    "width": 640
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283233118001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40741078,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283233118001_6283277522001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283233118001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40741078,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283233118001_6283277522001.mp4?pubId=5076297042001&videoId=6283277522001",
+                    "width": 480
+                },
+                {
+                    "asset_id": "6283233118001",
+                    "avg_bitrate": 509000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 270,
+                    "size": 40741078,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283233118001_6283277522001.mp4?pubId=5076297042001&videoId=6283277522001",
+                    "width": 480
+                },
+                {
+                    "app_name": "rtmp://brightcove.fcod.llnwd.net/a500/e1/uds/rtmp/ondemand",
+                    "asset_id": "6283275873001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144321404,
+                    "stream_name": "mp4:5076297042001/5076297042001_6283275873001_6283277522001.mp4&1665810000000&d495b8fc9aafd3529956fbb89ac12a61",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283275873001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144321404,
+                    "src": "http://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275873001_6283277522001.mp4?pubId=5076297042001&videoId=6283277522001",
+                    "width": 960
+                },
+                {
+                    "asset_id": "6283275873001",
+                    "avg_bitrate": 1814000,
+                    "codec": "H264",
+                    "container": "MP4",
+                    "duration": 634694,
+                    "height": 540,
+                    "size": 144321404,
+                    "src": "https://f1.media.brightcove.com/4/5076297042001/5076297042001_6283275873001_6283277522001.mp4?pubId=5076297042001&videoId=6283277522001",
+                    "width": 960
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "http://c.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283277522001&pubId=5076297042001",
+                    "type": "application/x-mpegURL"
+                },
+                {
+                    "codec": "H264",
+                    "container": "M2TS",
+                    "src": "https://secure.brightcove.com/services/mobile/streaming/index/master.m3u8?videoId=6283277522001&pubId=5076297042001&secure=true",
+                    "type": "application/x-mpegURL"
+                }
+            ],
+            "name": "Batman Begins",
+            "reference_id": null,
+            "long_description": null,
+            "duration": 634694,
+            "economics": "AD_SUPPORTED",
+            "text_tracks": [],
+            "published_at": "2021-11-22T19:18:13.709Z",
+            "created_at": "2021-11-22T19:16:06.680Z",
+            "updated_at": "2022-09-27T14:16:46.345Z",
+            "offline_enabled": false,
+            "link": null,
+            "id": "6283277522001",
+            "ad_keys": null
+        }
+    ]
+}
