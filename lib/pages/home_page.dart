@@ -1,5 +1,7 @@
 import 'package:flutter/material.dart';
 
+import '../data/data.dart';
+
 class HomePage extends StatefulWidget {
   const HomePage({Key? key}) : super(key: key);
 
@@ -18,6 +20,11 @@ class _HomePageState extends State<HomePage> {
         child: const Center(
           child: Text("Home Page Body"),
         ),
+      ),
+      floatingActionButton: FloatingActionButton(
+        onPressed: () async {
+          print(await MovieData.loadMovieData());
+        },
       ),
     );
   }
